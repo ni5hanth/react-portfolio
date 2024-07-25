@@ -9,9 +9,9 @@ import '../App.css';
 
 const MainContent = () => {
     const openPDF = () => {
-        window.open('https://drive.google.com/file/d/1DRuPYSnkhdYdWMFq15TVpr5uB67UrJ6K/view?usp=drive_link', '_blank');
+        window.open('https://drive.google.com/uc?export=download&id=FILE_ID', '_blank');
     };
-    
+
     const scrollToAbout = () => {
         const AboutSection = document.getElementById('About');
         if (AboutSection) {
