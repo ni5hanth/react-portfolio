@@ -1,7 +1,7 @@
 import React from "react";
-import profilePic from '../pictures/profile-pic.JPG';
-import project1Pic from '../pictures/project-1.JPG';
-import project2Pic from '../pictures/project-2.jpeg';
+import profilePic from '../pictures/profile-pic.png';
+import project1Pic from '../pictures/project-1.png';
+import project2Pic from '../pictures/project-2.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faAward, faEnvelope, faUserGraduate, faAnglesDown } from '@fortawesome/free-solid-svg-icons';
