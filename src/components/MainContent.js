@@ -9,7 +9,7 @@ import '../App.css';
 
 const MainContent = () => {
     const openPDF = () => {
-        window.open('/pictures/Resume-pic.pdf', '_blank');
+        window.open('https://drive.google.com/file/d/1DRuPYSnkhdYdWMFq15TVpr5uB67UrJ6K/view?usp=drive_link', '_blank');
     };
 
     const scrollToAbout = () => {
